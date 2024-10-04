@@ -1,0 +1,5 @@
+websockets
+pandas
+streamlit
+streamlit-autorefresh
+st-aggrid

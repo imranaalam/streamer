@@ -1,2 +1,3 @@
 |-- requirements.txt
 |-- streamer.py
+|-- tick_data.db

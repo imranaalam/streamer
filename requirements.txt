@@ -2,4 +2,4 @@ websockets
 pandas
 streamlit
 streamlit-autorefresh
-st-aggrid
+streamlit-aggrid
